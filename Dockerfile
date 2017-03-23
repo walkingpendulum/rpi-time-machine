@@ -106,4 +106,4 @@ RUN echo "\n\
 
 WORKDIR /
 
-#CMD while true; sleep 100000; done
+CMD while true; sleep 100000; done
